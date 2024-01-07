@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: navy;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-container {
+  background-color: black;
+  width: 80vw;
+  border: 2px solid white;
+  padding: 20px;
+  border-radius: 40px;
+  border-top-right-radius: 0px;
+  font-size: larger;
+}
